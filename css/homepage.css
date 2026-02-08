@@ -11,18 +11,16 @@ nav, section {
     border-radius: 10px;
     padding: 10px;
     background-color: #16181f;
+} .divButton a {
+    border: 2px solid #F5F5F5;
+    padding: 10px;
+    font-size: small;
+    text-decoration: none; 
 }
 
 .mainBackground {
     background-color: #282a36 ;
 }
-
-.linkButton {
-    border: 2px solid #F5F5F5;
-    padding: 10px;
-    font-size: small;
-    text-decoration: none;  /*kill the underline*/
-} 
 
 .centerText {
     text-align: center;
